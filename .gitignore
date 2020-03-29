@@ -14,3 +14,7 @@ face_generation/data/
 
 */.floyd*
 
+.idea**
+.vscode**
+
+
